@@ -7,7 +7,7 @@ body{
  position: absolute;
     color: #FFFFFF;
     bottom: 0;
-    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    background: linear-gradient(#00ccff 0%, #03fcca 100%);
     display: table;
     width: 100%;
     height: 110%;
@@ -36,4 +36,10 @@ p{
 }
 #Hobby{
     background: linear-gradient(#03fcca 0%, #cb96ff 100%);
+    height: 100%;
+}
+#Reviews{
+    background: linear-gradient(#cb96ff 0%, #ff00a2 100%);
+    
+    
 }
